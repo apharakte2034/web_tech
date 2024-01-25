@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="student.css"?> 
+<student> 
+	<heading> STUDENT DETAILS </heading> 
+	<student> 
+		<name>Name -: Parth Jadhav</name> 
+		<address>address -: Ruikar Colony , Kolhapur</address> 
+		<gmail>gmail -: parth999@gmail.com</gmail> 
+		<rollno>roll no -:3</rollno> 
+	
+	</student> 
+	<student> 
+        <name>Name -: Sujal Jadhav</name>
+        <address>address -: Kasaba Bawada , Kolhapur</address> 
+        <gmail>gmail -: atharva1999@gmail.com</gmail>
+        <rollno>roll no -:4</rollno> 
+	</student> 
+
+		 
+	
+</student>
